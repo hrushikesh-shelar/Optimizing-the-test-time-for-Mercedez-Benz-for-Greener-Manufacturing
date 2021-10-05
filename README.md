@@ -22,7 +22,7 @@ Applied Principal Component analysis on Dataset to reduced the dimensions retain
 
 Developed Artificial Neural Network in tensorflow-keras library. There were 2 hidden layers in the NN. Activation function used in all the layers is ReLu. Compiled the Model using 'adam' optimiser and 'mse' loss  The dataset was split into k=5 folds for k-fold cross validation. The model was trained with 100 epochs and batch size 32. 
 
-For Code & detailed approach, please refer the Notebook
+For Code & detailed approach, please refer the [Notebook](https://github.com/hrushikesh-shelar/Optimizing-the-test-time-for-Mercedez-Benz-for-Greener-Manufacturing/blob/main/Greener_Manufacturing_Mercedes_Benz_Project.ipynb)
 
 ### Results:
 The metric for result was R2 Score. The training R2 score was 0.61 and test R2 score was 0.475
